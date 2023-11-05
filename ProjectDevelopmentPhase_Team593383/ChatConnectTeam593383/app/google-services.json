@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "512160780972",
+    "project_id": "chatu-d89f8",
+    "storage_bucket": "chatu-d89f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512160780972:android:403ffa55eb1f129cbd4509",
+        "android_client_info": {
+          "package_name": "com.example.chatu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512160780972-kqbogmhpgedvtptv4eb41k3r3aqi2uk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGx8XqPrlEkt8YAJeSd922dKXeDhWovZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512160780972-kqbogmhpgedvtptv4eb41k3r3aqi2uk7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

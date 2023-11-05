@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ChatU</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_regi_login_screen">regi_login_screen</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_chat_window">Chat_WIndow</string>
+    <string name="title_activity_welcome">Welcome</string>
+</resources>
